@@ -1,2 +1,2 @@
-# My-Kaggle-Record
+Kaggle Record
 record my experience attending kaggle competition
